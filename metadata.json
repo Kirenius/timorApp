@@ -1,0 +1,5 @@
+{
+  "name": "Timor Dashboard",
+  "description": "A modern administrative dashboard featuring login authentication, data visualization, and user profile management.",
+  "requestFramePermissions": []
+}
